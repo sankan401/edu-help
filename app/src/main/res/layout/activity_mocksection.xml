@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gooseBerry"
+    android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="📃 Mock Test"
+            android:textColor="@color/white"
+            android:background="@color/tool_co"
+            android:textStyle="bold"
+            android:gravity="center_vertical"
+            android:paddingStart="25dp"
+            android:textSize="20sp">
+        </TextView>
+
+        <TextView
+            android:id="@+id/subheader"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="🌐 Useful Links"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:paddingStart="25dp"
+            android:textSize="20sp">
+        </TextView>
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/smokeWhite"
+            android:text="📌  Aptitude"
+            android:textAllCaps="false"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/smokeWhite"
+            android:text="📌 Verbal Ability"
+            android:layout_marginBottom="10dp"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📌 Logical Reasoning"
+            android:layout_marginBottom="10dp"
+            android:background="@color/smokeWhite"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📌 Non-verbal Reasoning"
+            android:layout_marginBottom="10dp"
+            android:background="@color/smokeWhite"
+            android:textAllCaps="false"/>
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📌 General Knowledge"
+            android:layout_marginBottom="10dp"
+            android:background="@color/smokeWhite"
+            android:textAllCaps="false" />
+
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📌 Current Affairs"
+            android:layout_marginBottom="10dp"
+            android:background="@color/smokeWhite"
+            android:textAllCaps="false"/>
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

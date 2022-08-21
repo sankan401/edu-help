@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tool_color">#ED8798EF</color>
+    <color name="tool_co">#2B5FF9</color>
+    <color name="green">#E10808</color>
+    <color name="back_g">#A97986CB</color>
+    <color name="red">#EFD50000</color>
+    <color name="smokeWhite">#EFFEFEE3</color>
+    <color name="yellow">#FFD600</color>
+    <color name="icon_back">#C5255AFB</color>
+    <color name="drab_g">#B12962FF</color>
+    <color name="video_bg">#FAFFF4A7</color>
+    <color name="buttonColor">#800000</color>
+    <color name="diamondDust">#f8f5e6</color>
+    <color name="gray">#999</color>
+    <color name="darkIndigo">#171d4b</color>
+    <color name="gooseBerry">#afe19f</color>
+    <color name="lightcolor">#DBAC45F1</color>
+    <color name="lightco">#7D999999</color>
+     <color name="primaryColor">@color/darkIndigo</color>
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".HomeFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/color_main"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/head"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:background="@color/drab_g"
+            android:fitsSystemWindows="true"
+            android:paddingTop="10dp"
+            android:text="@string/head"
+            android:textAlignment="center"
+            android:textColor="@color/yellow"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/drab_g"
+            app:srcCompat="@drawable/image2" />
+
+        <TextView
+            android:id="@+id/learn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:text="@string/sub_head"
+            android:textColor="@color/red"
+            android:textSize="20sp"
+            android:fontFamily="@font/aladin" />
+
+
+        <VideoView
+            android:id="@+id/videoView"
+            android:layout_width="wrap_content"
+            android:layout_height="180dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aladin"
+            android:text="Fastest access to"
+            android:textColor="@color/red"
+            android:textSize="20sp"
+            android:paddingBottom="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="81dp"
+        android:layout_marginTop="600dp"
+        android:background="@color/drab_g"
+        android:orientation="horizontal"
+        android:fitsSystemWindows="true">
+
+
+
+        <ImageView
+            android:id="@+id/ncert"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginLeft="90dp"
+            app:srcCompat="@drawable/ncert"
+            android:layout_gravity="center"
+           android:clickable="true"
+            android:fitsSystemWindows="true"/>
+
+        <ImageView
+            android:id="@+id/sarkariresult"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            app:srcCompat="@drawable/sarkariresult"
+            android:clickable="true"
+            android:fitsSystemWindows="true"/>
+
+
+    </LinearLayout>
+
+
+</FrameLayout>

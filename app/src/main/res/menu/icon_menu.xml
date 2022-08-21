@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+    <item android:id="@+id/menu_home"
+
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+        <item android:id="@+id/menu_course"
+            android:icon="@drawable/ic_baseline_menu_book_24"
+            android:title="Course"/>
+
+        <item android:id="@+id/menu_Mock"
+            android:icon="@drawable/ic_outline_text_snippet_24"
+            android:title="Mock test"/>
+
+        <item android:id="@+id/menu_about"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="About Us"/>
+
+        <item android:id="@+id/menu_contact"
+            android:icon="@drawable/ic_baseline_call_24"
+            android:title="Contact"/>
+    </group>
+
+</menu>
