@@ -27,8 +27,9 @@
             android:text="@string/head"
             android:textAlignment="center"
             android:textColor="@color/yellow"
-            android:textSize="30sp"
-            android:textStyle="bold" />
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/aclonica"/>
 
         <com.google.android.material.imageview.ShapeableImageView
             android:layout_width="match_parent"
@@ -59,7 +60,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="@font/aladin"
-            android:text="Fastest access to"
+            android:text="Fastest access to 🏃 "
             android:textColor="@color/red"
             android:textSize="20sp"
             android:paddingBottom="15dp"
@@ -95,7 +96,7 @@
             android:layout_marginLeft="20dp"
             app:srcCompat="@drawable/sarkariresult"
             android:clickable="true"
-            android:fitsSystemWindows="true"/>
+            android:fitsSystemWindows="true" />
 
 
     </LinearLayout>

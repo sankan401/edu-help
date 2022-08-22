@@ -17,7 +17,7 @@
         android:layout_height="200dp"
         android:layout_gravity="center"
         android:scaleType="fitXY"
-        android:src="@drawable/santoshphoto">
+        android:src="@mipmap/easyedu">
 
 
     </ImageView>
@@ -28,7 +28,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/arbutus"
         android:gravity="center"
-        android:text="santosh"
+        android:text="ram"
         android:textSize="20sp"
         android:textColor="@color/tool_co"
         android:textStyle="italic" />

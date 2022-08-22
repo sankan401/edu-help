@@ -17,7 +17,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/white"
-        android:textSize="30sp"
+        android:textSize="20sp"
         android:text="@string/easy"
         android:layout_marginStart="15dp"/>
 
@@ -25,9 +25,9 @@
         android:id="@+id/sk_edu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:textColor="@color/white"
         android:text=" 📖 comming soon"
-        android:layout_marginStart="5dp"/>
+        android:layout_marginStart="10dp"/>
 
 </androidx.appcompat.widget.LinearLayoutCompat>

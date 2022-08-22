@@ -17,11 +17,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
 
-            android:layout_marginTop="250dp"
+            android:layout_marginTop="25dp"
             android:fontFamily="@font/aladin"
             android:text="@string/about"
             android:textAlignment="center"
-            android:textColor="@color/red"
+            android:textColor="@color/tool_co"
             android:textSize="27sp" />
     </LinearLayout>
 

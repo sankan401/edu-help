@@ -3,28 +3,31 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/NavigationDrawer/app/src/main/res/drawable-v24/buttonshape.xml" value="0.229" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/drawable/color_main.xml" value="0.198" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/drawable/drawable.xml" value="0.198" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/drawable/ic_baseline_settings_applications_24.xml" value="0.1115" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/drawable/splashcolor.xml" value="0.229" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/activity_course.xml" value="0.1" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/activity_message.xml" value="0.264" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/activity_mocksection.xml" value="0.264" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/fragment_about.xml" value="0.33357091945830364" />
-        <entry key="..\:/NavigationDrawer/app/src/main/res/layout/fragment_contact.xml" value="0.2" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/layout/fragment_contact.xml" value="0.4" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/fragment_course.xml" value="0.10400000000000001" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/fragment_fragment.xml" value="0.1" />
-        <entry key="..\:/NavigationDrawer/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/layout/fragment_home.xml" value="0.2" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/fragment_item_list.xml" value="0.6555232558139535" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/fragment_mock.xml" value="0.1" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/fragment_mock_test.xml" value="0.1" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/fragment_scrolling.xml" value="0.1" />
-        <entry key="..\:/NavigationDrawer/app/src/main/res/layout/header_drawer.xml" value="0.16" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/layout/header_drawer.xml" value="0.6" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/mock_fragment.xml" value="0.1" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/registration.xml" value="0.2" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/row_layout_view.xml" value="0.16" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/splashscreen.xml" value="0.13100634632819583" />
+        <entry key="..\:/NavigationDrawer/app/src/main/res/layout/testing.xml" value="0.2" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/layout/verification.xml" value="0.2" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/menu/Icon_menu.xml" value="0.24375" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/menu/about.xml" value="0.24375" />
