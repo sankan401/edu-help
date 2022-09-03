@@ -47,34 +47,50 @@ public class CustomRecyclerViewAdopter extends RecyclerView.Adapter {
             public void onClick(View view) {
                 switch (position) {
 
+
                     case 0:
                         Intent viewIntent =
                                 new Intent("android.intent.action.VIEW",
-                                        Uri.parse("http://www.stackoverflow.com/"));
+                                        Uri.parse("https://youtube.com/playlist?list=PLsPGIGQVjaNV5clV1xXgZPd3Am6kY-xdP"));
                         context.startActivity(viewIntent);
+                        Toast.makeText(context, "Physics ", Toast.LENGTH_LONG).show();
                         break;
 
                     case 1:
-                        Intent browserIntent = new Intent(Intent.ACTION_VIEW,Uri.parse("http://www.google.com"));
+                        Intent browserIntent = new Intent(Intent.ACTION_VIEW,Uri.parse("https://youtube.com/playlist?list=PLsPGIGQVjaNV1dr6574W10xTnnY__4yKr"));
                         context.startActivity(browserIntent);
                         Toast.makeText(context, "Chemistry ", Toast.LENGTH_LONG).show();
                         break;
                     case 2:
+                        Intent bi = new Intent(Intent.ACTION_VIEW,Uri.parse("https://youtube.com/playlist?list=PLsPGIGQVjaNWmwW2m0LXN9pdejDQ5uFMS"));
+                        context.startActivity(bi);
                         Toast.makeText(context, "Mathematics ", Toast.LENGTH_LONG).show();
                         break;
                     case 3:
+                        Intent browsert = new Intent(Intent.ACTION_VIEW,Uri.parse("https://youtube.com/playlist?list=PLVLoWQFkZbhU9wgMK7nJv0eZK4gcaI8FJ"));
+                        context.startActivity(browsert);
                         Toast.makeText(context, "Biology ", Toast.LENGTH_LONG).show();
                         break;
                     case 4:
+                        Intent viewInten =
+                                new Intent("android.intent.action.VIEW",
+                                        Uri.parse("https://youtube.com/playlist?list=PLsPGIGQVjaNXEhgV4QQzF6Y5KDsl2rpq3"));
+                        context.startActivity(viewInten);
                         Toast.makeText(context, "English ", Toast.LENGTH_LONG).show();
                         break;
                     case 5:
+                        Intent browserInte = new Intent(Intent.ACTION_VIEW,Uri.parse("https://youtube.com/playlist?list=PLVLoWQFkZbhUysSLisuzprDMuRZQfUcWF"));
+                        context.startActivity(browserInte);
                         Toast.makeText(context, "Hindi ", Toast.LENGTH_LONG).show();
                         break;
                     case 6:
+                        Intent bIntent = new Intent(Intent.ACTION_VIEW,Uri.parse("https://youtu.be/LiqpHDIRRew"));
+                        context.startActivity(bIntent);
                         Toast.makeText(context, "PET ", Toast.LENGTH_LONG).show();
                         break;
                     case 7:
+                        Intent browserntent = new Intent(Intent.ACTION_VIEW,Uri.parse("https://youtube.com/playlist?list=PLkGk-SQ-GeeY7Ir-CL3WwAbw9RXzZU98v"));
+                        context.startActivity(browserntent);
                         Toast.makeText(context, "SSC ", Toast.LENGTH_LONG).show();
 
 

@@ -15,14 +15,15 @@
         <TextView
 
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
 
             android:layout_marginTop="25dp"
+
             android:fontFamily="@font/aladin"
             android:text="@string/about"
             android:textAlignment="center"
-            android:textColor="@color/tool_co"
-            android:textSize="25sp" />
+            android:textColor="@color/gray"
+            android:textSize="20sp" />
     </LinearLayout>
 
 </FrameLayout>
