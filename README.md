@@ -21,12 +21,12 @@ pages
 ### Home Page
 
 <div style="display: flex; margin: 1rem; justify-content: space-around; flex-wrap: wrap">
- <img src="app/src/main/res/drawable/Image(1).jpeg"  width="250">
- <img src="app/src/main/res/drawable/Image(2).jpeg"  width="250">
- <!-- <img src="app/src/main/res/drawable/Image(3).jpeg"  width="250"> -->
- <img src="app/src/main/res/drawable/Image(5).jpeg"  width="250">
- <img src="app/src/main/res/drawable/Image(6).jpeg"  width="250">
- <!-- <img src="app/src/main/res/drawable/Image(7).jpeg"  width="250"> -->
+ <img src="app/src/main/res/drawable/image_1.jpeg"  width="250">
+ <img src="app/src/main/res/drawable/image_2.jpeg"  width="250">
+ <!-- <img src="app/src/main/res/drawable/image_3.jpeg"  width="250"> -->
+ <img src="app/src/main/res/drawable/image_5.jpeg"  width="250">
+ <img src="app/src/main/res/drawable/image_6.jpeg"  width="250">
+ <!-- <img src="app/src/main/res/drawable/image_7.jpeg"  width="250"> -->
 </div>
 
 ## 📌 View demo on a mobile device or a virtual emulator
