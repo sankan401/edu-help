@@ -39,6 +39,28 @@
         <entry key="..\:/NavigationDrawer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.198" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.198" />
         <entry key="..\:/NavigationDrawer/app/src/main/res/xml/root_preferences.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/drawable-v24/buttonshape.xml" value="0.1955" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/drawable/color_main.xml" value="0.1955" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.1955" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/font/aclonica.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/font/aladin.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/activity_course.xml" value="0.22" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/activity_message.xml" value="0.22" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/activity_mocksection.xml" value="0.22" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/fragment_about.xml" value="0.2" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/fragment_contact.xml" value="0.1375" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/header_drawer.xml" value="0.22" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/registration.xml" value="0.25" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/row_layout_view.xml" value="0.18" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/splashscreen.xml" value="0.18" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/layout/verification.xml" value="0.2" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/menu/dot_icon.xml" value="0.25" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/menu/icon_menu.xml" value="0.22" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1475" />
+        <entry key="..\:/Users/user1/Desktop/edu-help/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1475" />
       </map>
     </option>
   </component>

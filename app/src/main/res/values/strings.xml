@@ -3,15 +3,16 @@
     <string name="open">Open</string>
     <string name="close">Close</string>
     <string name="head">Boost your knowledge</string>
-    <string name="sub_head">Learn with fun 😃 ...</string>
+    <string name="sub_head">🚀 Making learning fun for your child</string>
     <string name="skemail">skeducation@gmail.com</string>
     <string name="easy">Easy-Learning</string>
     <string name="contact">"☎+91-9062414177\n"📧sankan401@gmail.com</string>
 
-    <string name="warning">Email not verified😰😰😰 </string>
+    <string name="warning">email not verified! </string>
     <string name="login_name">Sign in</string>
     <string name="register_name">Sign up</string>
-    <string name="wlc_sign_in"> 😃 Welcome back, sign in</string>
+    <string name="wlc">Welcome back!</string>
+    <string name="sign_in">Sign in</string>
     <string name="wlc_sign_up">Sign up to continue</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
@@ -20,11 +21,12 @@
     <string name="verify">Verification link 🔗 has been sent to your registered Email ID please verify and re-visit the application.</string>
     <string name="username">Username</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="about">"SK Easy Learning app is developed by Santosh Kumar(ER). \n😎\n"
-        "👏 👏This application is developed for the education purpose.\n"
-    its aim to provide best quality of contents from all over the web to develop their basic concept.
-    "🤗 🤗 Language used in this application is so simple and easy to understand. \n"
-    Contents are taken from the various resourses 😲 😲 like Google, youtube and various other websites 🕸️🕸️🕸️🕸️
+    <string name="about">"Edu-help Learning app is developed by Santosh Kumar(ER). \n\n"
+        "📍 This application is developed for the education purpose.\n"
+    "Its aim to provide best quality of contents from all over the web to develop their basic concept."
+    "📍 Language used in this application is so simple and easy to understand. \n"
+    "Contents are taken from the various resourses from 🌐 like Google, youtube and various other websites. \n"
+        "💻 Happy learning. "
     </string>
 
     <!-- TODO: Remove or change this placeholder text -->

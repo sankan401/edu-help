@@ -9,7 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="tool_color">#ED8798EF</color>
     <color name="tool_co">#2B5FF9</color>
-    <color name="green">#E10808</color>
+    <color name="green">#30ED38</color>
+    <color name="greenDark">#C6006104</color>
     <color name="back_g">#A97986CB</color>
     <color name="red">#EFD50000</color>
     <color name="smokeWhite">#EFFEFEE3</color>
@@ -21,7 +22,7 @@
     <color name="diamondDust">#f8f5e6</color>
     <color name="gray">#999</color>
     <color name="darkIndigo">#171d4b</color>
-    <color name="gooseBerry">#afe19f</color>
+    <color name="gooseBerry">#A6DB95</color>
     <color name="lightcolor">#DBAC45F1</color>
     <color name="lightco">#7D999999</color>
      <color name="primaryColor">@color/darkIndigo</color>

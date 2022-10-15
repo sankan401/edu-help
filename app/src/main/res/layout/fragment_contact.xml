@@ -24,7 +24,7 @@
             android:clickable="true"
             android:gravity="center_vertical"
             android:text="@string/contact"
-            android:textColor="@color/red"
+            android:textColor="@color/greenDark"
             android:textCursorDrawable="@color/tool_co"
             android:textSize="20sp" />
 

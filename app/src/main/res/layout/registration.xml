@@ -25,6 +25,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="2dp"
             android:text="@string/wlc_sign_up"
+            android:textColor="@color/teal_200"
             android:textSize="18sp" />
 
     </LinearLayout>
@@ -91,21 +92,28 @@
             android:layout_marginBottom="36dp">
 
             <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/regpassword"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:inputType="textPassword"
-                android:background="@color/white"
-                android:ems="15"/>
+            android:id="@+id/regpassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:background="@color/white"
+            android:ems="15"
+            />
 
         </com.google.android.material.textfield.TextInputLayout>
 
         <Button
-            android:id="@+id/regbtn"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="13dp"
-            android:text="Sign up "/>
+        android:id="@+id/regbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:backgroundTint="@color/teal_200"
+        android:padding="14dp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:text="Sign up "
+        />
+
     </LinearLayout>
 
     <LinearLayout
@@ -116,13 +124,14 @@
         android:layout_centerHorizontal="true">
 
         <TextView
-            android:id="@+id/signup"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/primaryColor"
-            android:text="@string/already_member"
-            android:clickable="true"
-            />
+        android:id="@+id/signup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:text="@string/already_member"
+        android:textColor="@color/gray"
+        />
+
 
     </LinearLayout>
 

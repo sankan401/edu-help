@@ -31,64 +31,69 @@
             android:textStyle="bold"
             android:layout_marginTop="20dp"
             android:gravity="center"
-            android:paddingStart="25dp"
-            android:textSize="20sp">
+            android:textSize="25sp">
         </TextView>
 
         <Button
             android:id="@+id/button2"
-            android:layout_width="match_parent"
+            android:layout_width="380dp"
+            android:layout_marginBottom="12dp"
+            android:layout_gravity="center"
             android:layout_height="wrap_content"
             android:background="@drawable/buttonshape"
             android:text="📌  Aptitude"
             android:textAllCaps="false"
-            android:layout_marginBottom="10dp"
             android:layout_marginTop="20dp"
             />
 
         <Button
             android:id="@+id/button3"
-            android:layout_width="match_parent"
+            android:layout_width="380dp"
+            android:layout_marginBottom="12dp"
+            android:layout_gravity="center"
             android:layout_height="wrap_content"
             android:background="@drawable/buttonshape"
             android:text="📌 Verbal Ability"
-            android:layout_marginBottom="10dp"
             android:textAllCaps="false" />
 
         <Button
             android:id="@+id/button4"
-            android:layout_width="match_parent"
+            android:layout_width="380dp"
+            android:layout_marginBottom="12dp"
+            android:layout_gravity="center"
             android:layout_height="wrap_content"
             android:text="📌 Logical Reasoning"
-            android:layout_marginBottom="10dp"
             android:background="@drawable/buttonshape"
             android:textAllCaps="false" />
 
         <Button
             android:id="@+id/button5"
-            android:layout_width="match_parent"
+            android:layout_width="380dp"
+            android:layout_marginBottom="12dp"
+            android:layout_gravity="center"
             android:layout_height="wrap_content"
             android:text="📌 Non-verbal Reasoning"
-            android:layout_marginBottom="10dp"
             android:background="@drawable/buttonshape"
             android:textAllCaps="false"/>
 
         <Button
             android:id="@+id/button6"
-            android:layout_width="match_parent"
+            android:layout_width="380dp"
+            android:layout_marginBottom="12dp"
+            android:layout_gravity="center"
             android:layout_height="wrap_content"
             android:text="📌 General Knowledge"
-            android:layout_marginBottom="10dp"
             android:background="@drawable/buttonshape"
             android:textAllCaps="false" />
 
 
         <Button
             android:id="@+id/button7"
-            android:layout_width="match_parent"
+            android:layout_width="380dp"
+            android:layout_marginBottom="12dp"
+            android:layout_gravity="center"
             android:layout_height="wrap_content"
             android:text="📌 Current Affairs"
-            android:layout_marginBottom="10dp"
             android:background="@drawable/buttonshape"
             android:textAllCaps="false"/>
 

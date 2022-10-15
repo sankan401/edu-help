@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:tools="http://schemas.android.com/tools"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
 
     <item android:id="@+id/menu_Setting"
         android:title="Setting"
         tools:ignore="HardcodedText"/>
 
-        <item android:id="@+id/menu_help"
-            android:title="Help &amp; support"
-            tools:ignore="HardcodedText" />
+    <item android:id="@+id/menu_help"
+        android:title="Help &amp; support"
+        tools:ignore="HardcodedText" />
 
     <item android:id="@+id/menu_logout"
         android:title="Logout"
