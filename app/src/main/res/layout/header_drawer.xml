@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
+    android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/drawable">
+    android:background="@drawable/splashcolor"
+    >
 
     <TextView
     android:layout_width="wrap_content"
@@ -11,23 +12,66 @@
     android:textColor="@color/white"
     android:textSize="65sp"
     android:text="📑"
+    android:layout_marginBottom="10dp"
+    android:layout_marginStart="20dp"
+    />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="@color/white"
+    android:textSize="25sp"
+    android:text="@string/easy"
+    android:textStyle="bold"
+
+    android:layout_marginBottom="80dp"
     android:layout_marginStart="15dp"/>
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="@color/white"
-        android:textSize="20sp"
-        android:text="@string/easy"
-        android:layout_marginStart="15dp"/>
+    android:id="@+id/sk_edu"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="20dp"
+    android:textColor="@color/white"
+    android:text=" 📖 comming soon"
+    android:layout_gravity="center"
+    android:layout_marginBottom="10dp"
+    android:layout_marginStart="10dp"
+    />
 
     <TextView
-        android:id="@+id/sk_edu"
+        android:id="@+id/sk_edu2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="15sp"
+        android:textSize="20dp"
         android:textColor="@color/white"
         android:text=" 📖 comming soon"
-        android:layout_marginStart="10dp"/>
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginStart="10dp"
+        />
+    <TextView
+        android:id="@+id/sk_edu3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        android:text=" 📖 comming soon"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginStart="10dp"
+        />
+    <TextView
+        android:id="@+id/sk_edu4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        android:text=" 📖 comming soon"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginStart="10dp"
+        />
+
 
 </androidx.appcompat.widget.LinearLayoutCompat>

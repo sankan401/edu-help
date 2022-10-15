@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:backgroundTint="@color/cardview_light_background">
+    android:background="@drawable/buttonshape"
+    >
 
     <LinearLayout
         android:id="@+id/layout_first"
@@ -23,18 +24,19 @@
             android:paddingTop="150dp"
             android:text="@string/warning"
             android:textAlignment="center"
-            android:textColor="@color/green"
-            android:textSize="25sp" />
+            android:textColor="@color/greenDark"
+            android:textSize="25dp" />
 
         <Button
             android:id="@+id/button"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="36dp"
+            android:backgroundTint="@color/teal_200"
+            android:padding="14dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
             android:text="Verify Now"
-            android:textAllCaps="false"
-            android:textColor="@color/black"
-            android:textSize="20sp"
             />
 
     </LinearLayout>

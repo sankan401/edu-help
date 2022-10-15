@@ -83,12 +83,13 @@
             android:layout_marginBottom="72dp">
 
             <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/password"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:background="@color/white"
-                android:ems="15"
-                android:inputType="textPassword" />
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:ems="15"
+            android:inputType="textPassword"
+            />
 
         </com.google.android.material.textfield.TextInputLayout>
 

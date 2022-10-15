@@ -1,22 +1,14 @@
 # Edu-help
-App which shows information about clubs and events hosted by it in a college.
-This app was made for Inhouse NTCC Practical Training , as a Summer project before starting of my third year of BTech CSE.
 
-Requirements
-
-- Android Studio
-
-## 📌 Get Started
-
-1. Clone the project in your workspace using command - git clone
-   Clone the project in your workspace using command - git clone
-2. Then
+App which shows information and resources available for students to learn and grow their skills.
+This app as a Summer project before starting of my third year of BTech CSE.
 
 ## 📌 Features
 
-## 📌 Demo
+- Login & Sign-up
+- Provide free resources
 
-pages
+## 📌 Demo
 
 ### Home Page
 
@@ -28,6 +20,17 @@ pages
  <img src="app/src/main/res/drawable/image_6.jpeg"  width="250">
  <!-- <img src="app/src/main/res/drawable/image_7.jpeg"  width="250"> -->
 </div>
+
+## Requirements
+
+- jdk11
+- Android Studio
+
+## 📌 Get Started
+
+```
+git clone https://github.com/sankan401/edu-help.git
+```
 
 ## 📌 View demo on a mobile device or a virtual emulator
 
@@ -46,9 +49,11 @@ Using Android Studio is the preferred way to build the project. To build form th
 ```
 
 ## Tech Stack
+
 - Written in Java Programming Language.
 - IDE : Android Studio
 - No database used.
+- Login with firebase
 
 ## 📌 Contributing
 

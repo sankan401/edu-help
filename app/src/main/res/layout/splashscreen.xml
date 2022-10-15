@@ -12,8 +12,8 @@
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="326dp"
-            android:layout_height="473dp"
+            android:layout_width="364dp"
+            android:layout_height="506dp"
             android:layout_gravity="center"
             android:layout_marginTop="100dp"
 
@@ -25,10 +25,12 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="50dp"
             android:layout_marginTop="50dp"
-            android:background="@color/lightco"
+            android:background="tra"
             android:gravity="center"
             android:padding="7dp"
-            android:text="Presented by S.K."
+            android:textColor="@color/smokeWhite"
+            android:text="Edu-help"
+            android:textStyle="bold"
             android:textSize="20sp" />
 
 
